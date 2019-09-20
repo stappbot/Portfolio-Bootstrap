@@ -1,6 +1,6 @@
-body {
+/*body {
     background-color: rgb(96, 209, 185);
-}
+}*/
 
 h3 {
     font-family: 'Playfair Display', serif;
@@ -11,12 +11,23 @@ h3 {
 p {
     font-family: 'Nanum Gothic', sans-serif;
     font-size: 24px;
+
 }
 
 a {
     text-decoration: none;
     /*background-color: rgb(96, 209, 185);
     color: darkgray;*/
+}
+
+.top {
+    width: 80%;
+}
+.about-me {
+    width: 80%;
+}
+.form {
+    width: 80%;
 }
 /*a:hover {
     color: red;
