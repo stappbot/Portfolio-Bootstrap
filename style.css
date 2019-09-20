@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(96, 209, 185);
+}
+
+h3 {
+    font-family: 'Playfair Display', serif;
+    font-size: 36px;
+
+}
+
+p {
+    font-family: 'Nanum Gothic', sans-serif;
+    font-size: 24px;
+}
+
+a {
+    text-decoration: none;
+    /*background-color: rgb(96, 209, 185);
+    color: darkgray;*/
+}
+/*a:hover {
+    color: red;
+}*/
+/*.navbar {
+    font-family: 'Nanum Gothic', sans-serif;
+    background-color: rgb(96, 209, 185);
+}*/
