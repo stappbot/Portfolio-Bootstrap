@@ -7,3 +7,8 @@ body {
 .form-group, .input-group {
     margin-top: 20px;
 }
+.img-thumbnail {
+    width: 200px;
+    float: left;
+    margin: 20px;
+}
