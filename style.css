@@ -1,38 +1,6 @@
-/*body {
-    background-color: rgb(96, 209, 185);
-}*/
-
-h3 {
-    font-family: 'Playfair Display', serif;
-    font-size: 36px;
-
+body {
+    background-color: rgb(185, 228, 228);
 }
-
-p {
-    font-family: 'Nanum Gothic', sans-serif;
-    font-size: 24px;
-
+.container {
+    margin-top: 40px;
 }
-
-a {
-    text-decoration: none;
-    /*background-color: rgb(96, 209, 185);
-    color: darkgray;*/
-}
-
-.top {
-    width: 80%;
-}
-.about-me {
-    width: 80%;
-}
-.form {
-    width: 80%;
-}
-/*a:hover {
-    color: red;
-}*/
-/*.navbar {
-    font-family: 'Nanum Gothic', sans-serif;
-    background-color: rgb(96, 209, 185);
-}*/
